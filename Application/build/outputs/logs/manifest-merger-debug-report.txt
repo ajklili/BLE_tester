@@ -1,0 +1,105 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\ajkli\Downloads\AWorkspace\android-BluetoothAdvertisements-master\Application\src\main\AndroidManifest.xml:16:1-51:12
+	package
+		ADDED from C:\Users\ajkli\Downloads\AWorkspace\android-BluetoothAdvertisements-master\Application\src\main\AndroidManifest.xml:17:5-58
+	android:versionName
+		ADDED from C:\Users\ajkli\Downloads\AWorkspace\android-BluetoothAdvertisements-master\Application\src\main\AndroidManifest.xml:19:5-30
+		INJECTED from C:\Users\ajkli\Downloads\AWorkspace\android-BluetoothAdvertisements-master\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ajkli\Downloads\AWorkspace\android-BluetoothAdvertisements-master\Application\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from C:\Users\ajkli\Downloads\AWorkspace\android-BluetoothAdvertisements-master\Application\src\main\AndroidManifest.xml:18:5-28
+		INJECTED from C:\Users\ajkli\Downloads\AWorkspace\android-BluetoothAdvertisements-master\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ajkli\Downloads\AWorkspace\android-BluetoothAdvertisements-master\Application\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\ajkli\Downloads\AWorkspace\android-BluetoothAdvertisements-master\Application\src\main\AndroidManifest.xml:16:11-69
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from C:\Users\ajkli\Downloads\AWorkspace\android-BluetoothAdvertisements-master\Application\src\main\AndroidManifest.xml:21:5-74
+	android:name
+		ADDED from C:\Users\ajkli\Downloads\AWorkspace\android-BluetoothAdvertisements-master\Application\src\main\AndroidManifest.xml:21:22-71
+uses-permission#android.permission.BLUETOOTH
+ADDED from C:\Users\ajkli\Downloads\AWorkspace\android-BluetoothAdvertisements-master\Application\src\main\AndroidManifest.xml:22:5-68
+	android:name
+		ADDED from C:\Users\ajkli\Downloads\AWorkspace\android-BluetoothAdvertisements-master\Application\src\main\AndroidManifest.xml:22:22-65
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\ajkli\Downloads\AWorkspace\android-BluetoothAdvertisements-master\Application\src\main\AndroidManifest.xml:23:5-81
+	android:name
+		ADDED from C:\Users\ajkli\Downloads\AWorkspace\android-BluetoothAdvertisements-master\Application\src\main\AndroidManifest.xml:23:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\ajkli\Downloads\AWorkspace\android-BluetoothAdvertisements-master\Application\src\main\AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from C:\Users\ajkli\Downloads\AWorkspace\android-BluetoothAdvertisements-master\Application\src\main\AndroidManifest.xml:24:22-76
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\ajkli\Downloads\AWorkspace\android-BluetoothAdvertisements-master\Application\src\main\AndroidManifest.xml:25:5-80
+	android:name
+		ADDED from C:\Users\ajkli\Downloads\AWorkspace\android-BluetoothAdvertisements-master\Application\src\main\AndroidManifest.xml:25:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\ajkli\Downloads\AWorkspace\android-BluetoothAdvertisements-master\Application\src\main\AndroidManifest.xml:26:5-81
+	android:name
+		ADDED from C:\Users\ajkli\Downloads\AWorkspace\android-BluetoothAdvertisements-master\Application\src\main\AndroidManifest.xml:26:22-78
+application
+ADDED from C:\Users\ajkli\Downloads\AWorkspace\android-BluetoothAdvertisements-master\Application\src\main\AndroidManifest.xml:29:5-49:19
+MERGED from [com.android.support:support-v13:25.0.1] C:\Users\ajkli\.android\build-cache\a1538176097c8c419028cb4f8c34fbee5ab79584\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:cardview-v7:25.0.1] C:\Users\ajkli\.android\build-cache\88f628e4bf752f2e74e3f2a7b3b5e3749b8b9ac9\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:25.0.1] C:\Users\ajkli\.android\build-cache\c293965b5867b9cbf4ed3ae1fa20167509ef7f03\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.0.1] C:\Users\ajkli\.android\build-cache\83c08aac9889b632ffeaf1d5b8722390871c577c\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.0.1] C:\Users\ajkli\.android\build-cache\2834283ff92e5ce47b841a7b9a9f1ce63533875f\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.0.1] C:\Users\ajkli\.android\build-cache\b2dd5066424ec4a875595ac95036dc53f4eeabd4\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.0.1] C:\Users\ajkli\.android\build-cache\6c487ce405c17d36cd9849819b510795b2ff0c3f\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.0.1] C:\Users\ajkli\.android\build-cache\2142bcc339af6ca46ea9289bccfca3f8daa407cb\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.0.1] C:\Users\ajkli\.android\build-cache\a2783d4546edfda5053a5fc29ec28199e0a35112\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.0.1] C:\Users\ajkli\.android\build-cache\1f7ef0c22bd8a4ab2ab1566e03357e9495641c62\output\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-compat:25.0.1] C:\Users\ajkli\.android\build-cache\599f5b6be93a6dc21aa050f88bff7fdeb9437c40\output\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from C:\Users\ajkli\Downloads\AWorkspace\android-BluetoothAdvertisements-master\Application\src\main\AndroidManifest.xml:32:9-41
+	android:allowBackup
+		ADDED from C:\Users\ajkli\Downloads\AWorkspace\android-BluetoothAdvertisements-master\Application\src\main\AndroidManifest.xml:30:9-35
+	android:icon
+		ADDED from C:\Users\ajkli\Downloads\AWorkspace\android-BluetoothAdvertisements-master\Application\src\main\AndroidManifest.xml:31:9-45
+	android:theme
+		ADDED from C:\Users\ajkli\Downloads\AWorkspace\android-BluetoothAdvertisements-master\Application\src\main\AndroidManifest.xml:33:9-40
+activity#com.example.android.bluetoothadvertisements.MainActivity
+ADDED from C:\Users\ajkli\Downloads\AWorkspace\android-BluetoothAdvertisements-master\Application\src\main\AndroidManifest.xml:34:9-41:20
+	android:label
+		ADDED from C:\Users\ajkli\Downloads\AWorkspace\android-BluetoothAdvertisements-master\Application\src\main\AndroidManifest.xml:36:13-45
+	android:name
+		ADDED from C:\Users\ajkli\Downloads\AWorkspace\android-BluetoothAdvertisements-master\Application\src\main\AndroidManifest.xml:35:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\ajkli\Downloads\AWorkspace\android-BluetoothAdvertisements-master\Application\src\main\AndroidManifest.xml:37:13-40:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\ajkli\Downloads\AWorkspace\android-BluetoothAdvertisements-master\Application\src\main\AndroidManifest.xml:38:17-69
+	android:name
+		ADDED from C:\Users\ajkli\Downloads\AWorkspace\android-BluetoothAdvertisements-master\Application\src\main\AndroidManifest.xml:38:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\ajkli\Downloads\AWorkspace\android-BluetoothAdvertisements-master\Application\src\main\AndroidManifest.xml:39:17-77
+	android:name
+		ADDED from C:\Users\ajkli\Downloads\AWorkspace\android-BluetoothAdvertisements-master\Application\src\main\AndroidManifest.xml:39:27-74
+service#com.example.android.bluetoothadvertisements.AdvertiserService
+ADDED from C:\Users\ajkli\Downloads\AWorkspace\android-BluetoothAdvertisements-master\Application\src\main\AndroidManifest.xml:45:9-48:48
+	android:enabled
+		ADDED from C:\Users\ajkli\Downloads\AWorkspace\android-BluetoothAdvertisements-master\Application\src\main\AndroidManifest.xml:47:13-35
+	android:exported
+		ADDED from C:\Users\ajkli\Downloads\AWorkspace\android-BluetoothAdvertisements-master\Application\src\main\AndroidManifest.xml:48:13-37
+	android:name
+		ADDED from C:\Users\ajkli\Downloads\AWorkspace\android-BluetoothAdvertisements-master\Application\src\main\AndroidManifest.xml:46:13-46
+uses-sdk
+INJECTED from C:\Users\ajkli\Downloads\AWorkspace\android-BluetoothAdvertisements-master\Application\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:support-v13:25.0.1] C:\Users\ajkli\.android\build-cache\a1538176097c8c419028cb4f8c34fbee5ab79584\output\AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:cardview-v7:25.0.1] C:\Users\ajkli\.android\build-cache\88f628e4bf752f2e74e3f2a7b3b5e3749b8b9ac9\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:25.0.1] C:\Users\ajkli\.android\build-cache\c293965b5867b9cbf4ed3ae1fa20167509ef7f03\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.0.1] C:\Users\ajkli\.android\build-cache\83c08aac9889b632ffeaf1d5b8722390871c577c\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.0.1] C:\Users\ajkli\.android\build-cache\2834283ff92e5ce47b841a7b9a9f1ce63533875f\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.0.1] C:\Users\ajkli\.android\build-cache\b2dd5066424ec4a875595ac95036dc53f4eeabd4\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.0.1] C:\Users\ajkli\.android\build-cache\6c487ce405c17d36cd9849819b510795b2ff0c3f\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.0.1] C:\Users\ajkli\.android\build-cache\2142bcc339af6ca46ea9289bccfca3f8daa407cb\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.0.1] C:\Users\ajkli\.android\build-cache\a2783d4546edfda5053a5fc29ec28199e0a35112\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.0.1] C:\Users\ajkli\.android\build-cache\1f7ef0c22bd8a4ab2ab1566e03357e9495641c62\output\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-compat:25.0.1] C:\Users\ajkli\.android\build-cache\599f5b6be93a6dc21aa050f88bff7fdeb9437c40\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v13:25.0.1] C:\Users\ajkli\.android\build-cache\a1538176097c8c419028cb4f8c34fbee5ab79584\output\AndroidManifest.xml:23:9-52
+	android:targetSdkVersion
+		INJECTED from C:\Users\ajkli\Downloads\AWorkspace\android-BluetoothAdvertisements-master\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ajkli\Downloads\AWorkspace\android-BluetoothAdvertisements-master\Application\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\ajkli\Downloads\AWorkspace\android-BluetoothAdvertisements-master\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ajkli\Downloads\AWorkspace\android-BluetoothAdvertisements-master\Application\src\main\AndroidManifest.xml

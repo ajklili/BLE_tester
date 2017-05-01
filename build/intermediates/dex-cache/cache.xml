@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\ajkli\.android\build-cache\2834283ff92e5ce47b841a7b9a9f1ce63533875f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="C:\Users\ajkli\Downloads\AWorkspace\android-BluetoothAdvertisements-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6caa41cb80c38e1e509df6f0e029167f0662ae14\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ajkli\.android\build-cache\83c08aac9889b632ffeaf1d5b8722390871c577c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\ajkli\Downloads\AWorkspace\android-BluetoothAdvertisements-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d5863d7f167d68a62876b2376424ad548b1f8a00\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ajkli\.android\build-cache\6c487ce405c17d36cd9849819b510795b2ff0c3f\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\ajkli\Downloads\AWorkspace\android-BluetoothAdvertisements-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_7673857bcd764e3034e5cc3ffbd0ae5e93cd65fc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ajkli\.android\build-cache\2142bcc339af6ca46ea9289bccfca3f8daa407cb\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="C:\Users\ajkli\Downloads\AWorkspace\android-BluetoothAdvertisements-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_7fa2079f08a4eec636729847d0580998f92b0526\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ajkli\.android\build-cache\a1538176097c8c419028cb4f8c34fbee5ab79584\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cfb91ea7c6890336890ccb42767041af6b863e32">
+        <dex dex="C:\Users\ajkli\Downloads\AWorkspace\android-BluetoothAdvertisements-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_52eebbaa4fc9c41225e06702c88f8ee65e6a632a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ajkli\.android\build-cache\599f5b6be93a6dc21aa050f88bff7fdeb9437c40\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="C:\Users\ajkli\Downloads\AWorkspace\android-BluetoothAdvertisements-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_39b70593ac874db7a6e796f5d7fb696924197e0e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ajkli\.android\build-cache\88f628e4bf752f2e74e3f2a7b3b5e3749b8b9ac9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1108575c7dc7b7f5b378b3290ac90de81a9b8830">
+        <dex dex="C:\Users\ajkli\Downloads\AWorkspace\android-BluetoothAdvertisements-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ff2cd312e6328552df97046cf5bb550b2f53fef2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ajkli\.android\build-cache\2142bcc339af6ca46ea9289bccfca3f8daa407cb\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="C:\Users\ajkli\Downloads\AWorkspace\android-BluetoothAdvertisements-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5a58c9424bf9b5c3fbc3292e89c0b856e85910ff\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ajkli\.android\build-cache\2834283ff92e5ce47b841a7b9a9f1ce63533875f\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="C:\Users\ajkli\Downloads\AWorkspace\android-BluetoothAdvertisements-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_64fc9e5bb9e95c0f44f442d9a84c90aef94ea121\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ajkli\.android\build-cache\c293965b5867b9cbf4ed3ae1fa20167509ef7f03\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="C:\Users\ajkli\Downloads\AWorkspace\android-BluetoothAdvertisements-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a50384b6f46a49a7a9c473c6096396313b514b03\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Programs\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="C:\Users\ajkli\Downloads\AWorkspace\android-BluetoothAdvertisements-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.1_6f013401eeeac6dfa22ea5036ef485ee7d4f521f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ajkli\.android\build-cache\b2dd5066424ec4a875595ac95036dc53f4eeabd4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="C:\Users\ajkli\Downloads\AWorkspace\android-BluetoothAdvertisements-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_50b18dea3ee77a87475109f56c2bc79337552aef\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ajkli\Downloads\AWorkspace\android-BluetoothAdvertisements-master\Application\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7dd4c69aed86ad42e53c7173999a608279eb7806">
+        <dex dex="C:\Users\ajkli\Downloads\AWorkspace\android-BluetoothAdvertisements-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_9f062f723fb18afea9241a3820f5d0f11479e1ed\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ajkli\.android\build-cache\6c487ce405c17d36cd9849819b510795b2ff0c3f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="C:\Users\ajkli\Downloads\AWorkspace\android-BluetoothAdvertisements-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d985955b09377994680d7de143872deee7670234\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ajkli\.android\build-cache\b2dd5066424ec4a875595ac95036dc53f4eeabd4\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="C:\Users\ajkli\Downloads\AWorkspace\android-BluetoothAdvertisements-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_1a1ed287134e98741c835dd0dabf478f406253a7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ajkli\Downloads\AWorkspace\android-BluetoothAdvertisements-master\Application\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Users\ajkli\Downloads\AWorkspace\android-BluetoothAdvertisements-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_789fc7478d7abb0af92d09ce26031814bad7785f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ajkli\.android\build-cache\599f5b6be93a6dc21aa050f88bff7fdeb9437c40\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="C:\Users\ajkli\Downloads\AWorkspace\android-BluetoothAdvertisements-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3aa031ab893804653a46366d82affd8eea5eb9e1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ajkli\.android\build-cache\1f7ef0c22bd8a4ab2ab1566e03357e9495641c62\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="C:\Users\ajkli\Downloads\AWorkspace\android-BluetoothAdvertisements-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fe484312f023a75b0b22bba62c5bca2c6fbdab04\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ajkli\.android\build-cache\a2783d4546edfda5053a5fc29ec28199e0a35112\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="C:\Users\ajkli\Downloads\AWorkspace\android-BluetoothAdvertisements-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_277d4d98d0eb3dfe9c3158cf5ff7e9ea12a223a4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ajkli\.android\build-cache\a1538176097c8c419028cb4f8c34fbee5ab79584\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9abf11d546d9e0ee82da86df608ced7a961b76ac">
+        <dex dex="C:\Users\ajkli\Downloads\AWorkspace\android-BluetoothAdvertisements-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_747f5e35de1331a811220662820b3967583e1f82\classes.dex" />
+    </item>
+
+</items>
